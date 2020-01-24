@@ -1,0 +1,26 @@
+@font-face {font-family: "Gotham Bold";
+  src: url("5d6f50ed2dde0e4ad455448f896c09f0.eot"); /* IE9*/
+  src: url("5d6f50ed2dde0e4ad455448f896c09f0.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("5d6f50ed2dde0e4ad455448f896c09f0.woff2") format("woff2"), /* chrome、firefox */
+  url("5d6f50ed2dde0e4ad455448f896c09f0.woff") format("woff"), /* chrome、firefox */
+  url("5d6f50ed2dde0e4ad455448f896c09f0.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("5d6f50ed2dde0e4ad455448f896c09f0.svg#Gotham Bold") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "GothamBook";
+  src: url("a9db6cd9116ff56da3875b35444f0c45.eot"); /* IE9*/
+  src: url("a9db6cd9116ff56da3875b35444f0c45.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("a9db6cd9116ff56da3875b35444f0c45.woff2") format("woff2"), /* chrome、firefox */
+  url("a9db6cd9116ff56da3875b35444f0c45.woff") format("woff"), /* chrome、firefox */
+  url("a9db6cd9116ff56da3875b35444f0c45.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("a9db6cd9116ff56da3875b35444f0c45.svg#GothamBook") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Gotham";
+  src: url("bd317adf74e5e7e564eb61ce9926cc6d.eot"); /* IE9*/
+  src: url("bd317adf74e5e7e564eb61ce9926cc6d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("bd317adf74e5e7e564eb61ce9926cc6d.woff2") format("woff2"), /* chrome、firefox */
+  url("bd317adf74e5e7e564eb61ce9926cc6d.woff") format("woff"), /* chrome、firefox */
+  url("bd317adf74e5e7e564eb61ce9926cc6d.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("bd317adf74e5e7e564eb61ce9926cc6d.svg#Gotham") format("svg"); /* iOS 4.1- */
+}

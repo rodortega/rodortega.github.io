@@ -1,0 +1,206 @@
+@import url('../fonts/fonts.css');
+
+body{
+	font-family: 'GothamBook';
+	font-size: 18px;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Gotham Bold';
+}
+
+h1{
+	font-size: 40px;
+}
+
+h2{
+	font-size: 35px;
+}
+
+h3{
+	font-size: 25px;
+}
+
+.btn-lg{
+	font-family: 'Gotham Bold';
+	padding: 12px 24px;
+}
+
+.btn-custom-blue{
+	background-color: #005391;
+	color: #ffffff;
+}
+.btn-custom-blue:hover{
+	color: #ffffff;
+	background-color: #026dbd !important;
+}
+
+.text-custom-blue{
+	color: #005391;
+}
+
+.grayscale{
+	-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.spacer-10{
+	height: 10px;
+}
+
+.spacer-20{
+	height: 20px;
+}
+
+.spacer-50{
+	height: 50px;
+}
+
+.spacer-100{
+	height: 100px;
+}
+
+.spacer-150{
+	height: 150px;
+}
+
+.font-bold{
+	font-family: 'Gotham Bold';
+}
+
+.font-light{
+	font-family: 'GothamBook';
+}
+
+.f-16{
+	font-size: 16px;
+}
+
+.f-40{
+	font-size: 40px;
+}
+
+.bb-5{
+	border-bottom: solid 5px #000000;
+}
+
+.page-padded-container{
+	padding-left: 20vw;
+	padding-right: 20vw;
+}
+
+.page-home{
+	background: url('../images/header-bg.png');
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.page-assessment{
+	background: url('../images/assessment-bg.png');
+	height: 1400px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.page-assessment-bg-footer{
+	background: url('../images/assessment-bg-footer.png');
+	height: 110px;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.page-partnership{
+	background: url('../images/partner-bg.png');
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.page-footer{
+	background: url('../images/footer-bg.png');
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.panel-tail{
+	right: -100px; 
+	bottom: 0px;
+}
+
+.page-features{
+	background-color: #F7F7F7;
+}
+
+.header-assessment:before{
+	content: '';
+	background: url('../images/icon-clock.png') no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 32px;
+	width: 32px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+.panel-partnership{
+	background-color: #005391;
+	border-radius: 20px;
+}
+
+
+@media (max-width: 767.98px) {
+	body{
+		font-size: 14px;
+		line-height: 2;
+	}
+	h1{
+		font-size: 23px;
+	}
+
+	h2{
+		font-size: 22px;
+	}
+
+	h3{
+		font-size: 15px;
+	}
+
+	.btn{
+		font-size: 18px;
+		width: 90%;
+	}
+
+	.header-logo{
+		height: 45px;
+	}
+
+	.header-hero{
+		height: 200px;
+	}
+
+	.header-assessment:before{
+		height: 20px;
+		width: 20px;
+	}
+
+	.page-assessment{
+		background-position: 80%;
+	}
+
+	.page-padded-container{
+		padding-left: 5vw;
+		padding-right: 5vw;
+	}
+
+	.image-features{
+		height: 60px;
+	}
+
+	.page-partnership{
+		background: none;
+	}
+}
