@@ -80,6 +80,10 @@ h3{
 	font-size: 40px;
 }
 
+.f-45{
+	font-size: 45px;
+}
+
 .bb-5{
 	border-bottom: solid 5px #000000;
 }
@@ -158,7 +162,7 @@ h3{
 		line-height: 2;
 	}
 	h1{
-		font-size: 23px;
+		font-size: 18px;
 	}
 
 	h2{
@@ -189,6 +193,8 @@ h3{
 
 	.page-assessment{
 		background-position: 80%;
+		margin-top: -90px;
+		margin-bottom: -90px;
 	}
 
 	.page-padded-container{
@@ -202,5 +208,21 @@ h3{
 
 	.page-partnership{
 		background: none;
+	}
+
+	.fm-18{
+		font-size: 18px;
+	}
+
+	.fm-20{
+		font-size: 20px;
+	}
+
+	.fm-22{
+		font-size: 22px;
+	}
+
+	.footer-logo{
+		height: 37px;
 	}
 }
