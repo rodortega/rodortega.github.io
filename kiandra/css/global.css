@@ -72,6 +72,14 @@ h3{
 	font-family: 'GothamBook';
 }
 
+.text-gray{
+	color: #757575;
+}
+
+.f-12{
+	font-size: 12px;
+}
+
 .f-16{
 	font-size: 16px;
 }
